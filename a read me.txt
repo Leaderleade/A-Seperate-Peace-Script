@@ -20,3 +20,5 @@ Music source:
 
 RPG Maker VX Ace BGM
 ------------------------------------------------------------------------------------------------------------------------
+Background information about this project:
+This python text-adventure game is the first project we (Justin and Hao) have built. The project is inspired by and based on the book 'A Separate Piece'. 
